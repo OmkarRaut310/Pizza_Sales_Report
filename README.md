@@ -50,4 +50,11 @@ This project is an end-to-end **data analytics dashboard** built using **Excel, 
 - Identifies **customer preferences** and seasonal demand.  
 - Helps optimize **menu offerings** and promotions.  
 - Supports **inventory planning** and marketing strategies.  
-- Provides actionable KPIs for **sales growth**.  
+- Provides actionable KPIs for **sales growth**.
+
+# Dashboard Screen like this:
+(https://github.com/OmkarRaut310/Pizza_Sales_Report/blob/main/Pizza_Sales_image.png)
+
+
+
+ 
