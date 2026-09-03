@@ -53,7 +53,8 @@ This project is an end-to-end **data analytics dashboard** built using **Excel, 
 - Provides actionable KPIs for **sales growth**.
 
 # Dashboard Screen like this:
-(https://github.com/OmkarRaut310/Pizza_Sales_Report/blob/main/Pizza_Sales_image.png)
+- Home Page:(https://github.com/OmkarRaut310/Pizza_Sales_Report/blob/main/Pizzas_Sales_Image.png)
+- Best/Seller Page: (https://github.com/OmkarRaut310/Pizza_Sales_Report/blob/main/Pizza_Sales_image.png)
 
 
 
