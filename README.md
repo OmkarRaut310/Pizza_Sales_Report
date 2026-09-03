@@ -1,7 +1,7 @@
 #🍕 Pizza_Sales_Report_Dashboard  
 
 📌 Project Description  
-This project is an end-to-end **data analytics dashboard** built using **Excel, SQL Server Management Studio 22, Power Query, Power BI, and DAX formulas**. It provides a comprehensive view of pizza sales performance, customer behavior, and product trends for the period **Jan 2015 – Dec 2015**.
+An interactive dashboard built using Excel, SQL Server Management Studio 22, Power Query, Power BI,     and DAX to analyze pizza sales data. It highlights total revenue, orders, average order value, busiest    days, top-selling categories, and best/worst pizzas. The dashboard provides actionable insights into      customer preferences, seasonal demand, and product performance to support data-driven business decisions.
 
 
 
